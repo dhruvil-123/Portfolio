@@ -32,7 +32,7 @@ function App() {
   console.log(openModal)
   return (
     <ThemeProvider theme={darkMode ? darkTheme : lightTheme}>
-      // <Router >
+   
         <Navbar />
         <Body>
           <HeroSection />
@@ -50,7 +50,7 @@ function App() {
             <ProjectDetails openModal={openModal} setOpenModal={setOpenModal} />
           }
         </Body>
-      // </Router>
+    
     </ThemeProvider>
   );
 }
