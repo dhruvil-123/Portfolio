@@ -4,7 +4,7 @@ const socials = [
   { icon: <FaGithub />, path: "https://github.com/dhruvil-123" },
   { icon: <FaLinkedinIn />, path: "https://www.linkedin.com/in/dhruvildhanani/" },
   // { icon: <FaYoutube />, path: "" },
-  { icon: <FaTwitter />, path: "" },
+  { icon: <FaTwitter />, path: "https://x.com/dhananidhruvil0?t=GBUc1ZNCv84btQ5BPVueVQ&s=09" },
 ];
 
 const Social = ({ containerStyles, iconStyles }) => {
